@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+    .title {
+        font-size: 40px;
+    }
+
+    .text-message {
+        margin: 0 1%;
+    }
+
+    .text-image-container {
+        width: auto;
+        height: auto;
+    }
+
+    .message-container {
+        padding-top: 90%;
+    }
+}
